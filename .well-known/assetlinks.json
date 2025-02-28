@@ -1,14 +1,15 @@
 [
-    {
-        "relation": [
-            "delegate_permission/common.handle_all_urls"
-        ],
-        "target": {
-            "namespace": "android_app",
-            "package_name": "com.example.deeplink_cookbook",
-            "sha256_cert_fingerprints": [
-                "58:4F:59:00:D3:CB:76:71:0C:3D:E6:16:28:72:68:74:A3:4F:C2:08:4F:05:BA:7F:33:53:4E:74:9D:29:C0:B7"
-            ]
-        }
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.tpauctions",
+      "sha256_cert_fingerprints": [
+        "58:4F:59:00:D3:CB:76:71:0C:3D:E6:16:28:72:68:74:A3:4F:C2:08:4F:05:BA:7F:33:53:4E:74:9D:29:C0:B7",
+        "3A:D4:32:CD:EE:06:A5:BD:1F:BD:83:A4:14:14:D7:E0:1F:45:CA:1E:87:18:D5:68:3A:A3:1B:E7:7D:C5:DA:09"
+      ]
     }
+  }
 ]
