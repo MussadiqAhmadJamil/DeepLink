@@ -1,25 +1,25 @@
 {
     "applinks": {
-      "apps": [],
-      "details": [
-        {
-          "appIDs": [
-            "CRRPXU443H.com.tpauctions.auctions"
-          ],
-          "paths": [
-            "*"
-          ],
-          "components": [
+        "apps": [],
+        "details": [
             {
-              "/": "/*"
+                "appIDs": [
+                    "CRRPXU443H.com.tpauctions.auctions"
+                ],
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {
+                        "/": "/*"
+                    }
+                ]
             }
-          ]
-        }
-      ]
+        ]
     },
     "webcredentials": {
-      "apps": [
-        "CRRPXU443H.com.tpauctions.auctions"
-      ]
+        "apps": [
+            "CRRPXU443H.com.tpauctions.auctions"
+        ]
     }
-  }
+}
